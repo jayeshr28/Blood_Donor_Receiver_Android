@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/projects/Donor_Receiver/app/src/main/res/layout/activity_chat.xml" value="0.23645833333333333" />
+        <entry key="..\:/projects/Donor_Receiver/app/src/main/res/layout/activity_current_items.xml" value="0.23645833333333333" />
+        <entry key="..\:/projects/Donor_Receiver/app/src/main/res/layout/activity_donar_current_items.xml" value="0.23645833333333333" />
+        <entry key="..\:/projects/Donor_Receiver/app/src/main/res/layout/activity_donar_dashboard.xml" value="0.23645833333333333" />
+        <entry key="..\:/projects/Donor_Receiver/app/src/main/res/layout/activity_donor_sign_in.xml" value="0.23645833333333333" />
+        <entry key="..\:/projects/Donor_Receiver/app/src/main/res/layout/activity_forgot_password.xml" value="0.23645833333333333" />
+        <entry key="..\:/projects/Donor_Receiver/app/src/main/res/layout/activity_main.xml" value="0.19895833333333332" />
+        <entry key="..\:/projects/Donor_Receiver/app/src/main/res/layout/activity_my_donations.xml" value="0.264" />
+        <entry key="..\:/projects/Donor_Receiver/app/src/main/res/layout/activity_received_items.xml" value="0.23645833333333333" />
+        <entry key="..\:/projects/Donor_Receiver/app/src/main/res/layout/activity_receiver_dashboard.xml" value="0.20833333333333334" />
+        <entry key="..\:/projects/Donor_Receiver/app/src/main/res/layout/activity_receiver_sign_in.xml" value="0.2" />
+        <entry key="..\:/projects/Donor_Receiver/app/src/main/res/layout/activity_search_new_item.xml" value="0.20833333333333334" />
+        <entry key="..\:/projects/Donor_Receiver/app/src/main/res/layout/current_items_layout.xml" value="0.264" />
+        <entry key="..\:/projects/Donor_Receiver/app/src/main/res/layout/layout_donar_signup.xml" value="0.23645833333333333" />
+        <entry key="..\:/projects/Donor_Receiver/app/src/main/res/layout/layout_for_insert_row.xml" value="0.23645833333333333" />
+        <entry key="..\:/projects/Donor_Receiver/app/src/main/res/layout/layout_mydonations.xml" value="0.4" />
+        <entry key="..\:/projects/Donor_Receiver/app/src/main/res/layout/layout_reciever_signup.xml" value="0.2" />
+        <entry key="..\:/projects/Donor_Receiver/app/src/main/res/layout/layout_splash.xml" value="0.19895833333333332" />
+        <entry key="..\:/projects/Donor_Receiver/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.13177083333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
